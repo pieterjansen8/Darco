@@ -1,0 +1,22 @@
+{
+  "name": "darco-app",
+  "version": "1.0.0",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "target": {
+    "win": {
+      "target": "msi"
+    }
+  },
+  "devDependencies": {
+    "electron-builder": "^24.13.3",
+    "electron": "^31.1.0"
+  }
+}

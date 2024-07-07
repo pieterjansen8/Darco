@@ -1,0 +1,13 @@
+socialpanel => yes
+const text_mode = [ 
+    "    <div class='text_mode'>"+
+    "        <center>"+
+    "          <h1>Chatting with ....</h1>"+
+    "        </center>"+
+    "        <h2 class='text_mode_him'>How are you </h2>"+
+    "        <h2 class='text_mode_me'>I am great thanks!</h2>"+
+            "<h2 class='text_mode_me'>hop on bro!</h2>"+
+    "        <h2 class='text_mode_him'>alright bro.</h2>"+
+        "</div>"
+]
+add_friends => yes
